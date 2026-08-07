@@ -1,1 +1,2 @@
-# aqui incluirei todos os exercicios proprios e de aula que farei de java
+# semana 2 
+## aula 1
