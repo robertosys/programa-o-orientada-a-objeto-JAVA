@@ -1,2 +1,1 @@
-# semana 1 
-## aula 07/08/202
+# aqui incluirei todos os exercicios proprios e de aula que farei de java
