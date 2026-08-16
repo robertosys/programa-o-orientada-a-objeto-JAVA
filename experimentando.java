@@ -19,6 +19,7 @@ public class experimentando {
       Scanner entrada = new Scanner(System.in);
       nomes.set(0, entrada.nextLine());
       System.out.println(nomes.get(0));
+      entrada.close();
 
     }
 }
