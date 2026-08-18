@@ -1,3 +1,7 @@
+/* Código para jogo de advinhação de 1 a 100 com tentativas infinitas ate acertar o numero
+com feedback de acertos e erro.  */
+
+
 import java.util.Random;
 import java.util.Scanner;
 public class desafio {
