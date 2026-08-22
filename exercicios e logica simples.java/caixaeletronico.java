@@ -1,7 +1,7 @@
 /*código de simulação de caixa eletronico trabalhando lógica basica. */
 
 import java.util.Scanner;
-public class exsimples2 {
+public class caixaeletronico {
     public static void main(String[] args) {
        Scanner entrada = new Scanner(System.in);
         double saldo = 1000;

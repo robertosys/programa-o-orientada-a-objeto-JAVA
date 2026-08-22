@@ -4,7 +4,7 @@ com feedback de acertos e erro.  */
 
 import java.util.Random;
 import java.util.Scanner;
-public class desafio {
+public class jogoadivinhacao {
 
      
     public static void main(String[] args) {
